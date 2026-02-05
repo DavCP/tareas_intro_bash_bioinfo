@@ -9,3 +9,4 @@
 
 
 ## 1. Se incluyó la tarea de la Unidad 2
+Se modificó la estructura de directorios para seguir la estructura indicada
