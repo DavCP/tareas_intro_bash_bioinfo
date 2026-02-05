@@ -6,3 +6,6 @@
 - **Descripción general del repositorio**: Este repositorio será usado para entrega de tareas en el curso
 
 *Tillandsia fasciculata*
+
+
+## Se incluyó la tarea de la Unidad 2
