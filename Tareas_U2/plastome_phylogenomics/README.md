@@ -10,7 +10,7 @@ Dentro de la familia Bromeliaceae, la subfamilia más rica en especies es Tillan
 1. Inferir las relaciones filogenéticas dentro de *Tillandsia* subg. *Tillandsia* a partir de datos de plastoma
 
 ### - **Estructura de carpetas:** 
-
+![Estructura de directorios](/misc/images/screenshot.png "Estructura directorios")
 
 ### - **Programas a utilizar:** 
 
