@@ -5,6 +5,4 @@
 - **Nombre del curso**: Introducción a la Programación para Bioinformática con Bash
 - **Descripción general del repositorio**: Este repositorio será usado para entrega de tareas en el curso
 
-
-
-
+*Tillandsia fasciculata*
