@@ -4,10 +4,13 @@
 Filogenómica de *Tillandsia* subg. *TIllandsia*
 
 ### - **Introducción:** 
+Dentro de la familia Bromeliaceae, la subfamilia más rica en especies es Tillandsioideae, y dentro de la familia y subfamilia, el género más rico en especies es *Tillandsia*, a su vez, el subgénero *Tillandsia* tiene una gran riqueza de especies. A pesar de grandes avances en los últimos años, para conocer las relaciones de parentezco dentro de este subgénero, ha sido dificil conciliar estas relaciones debido a procesos causantes de discordancia filogenómica, tales como la hibridación, introgresión y el reparto incompleto de linajes.
 
 ### - **Objetivos:**
+1. Inferir las relaciones filogenéticas dentro de *Tillandsia* subg. *Tillandsia* a partir de datos de plastoma
 
 ### - **Estructura de carpetas:** 
+
 
 ### - **Programas a utilizar:** 
 
