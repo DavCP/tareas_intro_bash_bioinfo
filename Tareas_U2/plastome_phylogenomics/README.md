@@ -11,4 +11,12 @@ Filogenómica de *Tillandsia* subg. *TIllandsia*
 
 ### - **Programas a utilizar:** 
 
+| Software | Versión | Descripción |
+| -------- | ------- | ----------- |
+| FastQC | 0.12.1 | Conrol de calidad de lecturas
+| Trimmomatic | 0.9 | Limpieza de adaptadores y *reads* de baja calidad |
+| Spades | 4.2 | Ensamble de novo de datos WGS |
+
+*Prueba del uso de tablas*
+
 
