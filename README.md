@@ -12,8 +12,5 @@
 Se modificó la estructura de directorios para seguir la estructura indicada
 
 ![Estructura de directorios](misc/images/screenshot.png "Estructura directorios")
-*Estructura de directorios*
 
-<p align="center" width="100%">
-    <img width="33%" src="misc/images/screenshot.png">
-</p>
+*Estructura de directorios*
