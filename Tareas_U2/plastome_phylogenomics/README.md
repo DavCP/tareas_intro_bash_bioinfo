@@ -13,7 +13,7 @@ Filogenómica de *Tillandsia* subg. *TIllandsia*
 
 | Software | Versión | Descripción |
 | -------- | ------- | ----------- |
-| FastQC | 0.12.1 | Conrol de calidad de lecturas
+| FastQC | 0.12.1 | Control de calidad de lecturas
 | Trimmomatic | 0.40 | Limpieza de adaptadores y *reads* de baja calidad |
 | Spades | 4.2.0 | Ensamble de novo de datos WGS |
 
