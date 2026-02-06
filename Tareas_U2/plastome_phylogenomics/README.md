@@ -28,8 +28,8 @@ Se utilizarán contenedores de Biocontainers obtenidos desde [Quay.io](https://w
 
 | Software | Versión | Descripción | Contenedores Apptainer |
 | -------- | ------- | ----------- | ------------- |
-| FastQC | 0.12.1 | Control de calidad de lecturas | trimmomatic:0.40--hdfd78af_0 |
-| Trimmomatic | 0.40 | Limpieza de adaptadores y *reads* de baja calidad |
+| FastQC | 0.12.1 | Control de calidad de lecturas | fastqc:0.12.1--hdfd78af_0 |
+| Trimmomatic | 0.40 | Limpieza de adaptadores y *reads* de baja calidad | trimmomatic:0.40--hdfd78af_0 |
 | Spades | 4.2.0 | Ensamble de novo de datos WGS |
 | Captus | 1.6.1 | Pipeline bioinformático para la captura de loci |
 | IQ-TREE | 3.0.1 | Software de inferencia filogenética |
