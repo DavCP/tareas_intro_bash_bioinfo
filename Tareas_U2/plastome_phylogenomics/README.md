@@ -35,12 +35,12 @@ Se utilizarán contenedores de Biocontainers obtenidos desde [Quay.io](https://w
 | -------- | ------- | ----------- | ------------- |
 | FastQC | 0.12.1 | Control de calidad de lecturas | fastqc:0.12.1--hdfd78af_0 |
 | Trimmomatic | 0.40 | Limpieza de adaptadores y lecturas de baja calidad | trimmomatic:0.40--hdfd78af_0 |
-| Spades | 4.2.0 | Ensamble de novo de datos WGS |
-| Captus | 1.6.1 | Pipeline bioinformático para la captura de loci |
-| IQ-TREE | 3.0.1 | Inferencia filogenética por máxima verosimilitud |
-| MAFFT | 7.525 | Alineamiento de secuencias |
-| Trimal | 1.5.1 | Curación de alineamientos |
-| GoTree | 0.5.1 | Manejo y edición de árboles filogenéticos |
+| Spades | 4.2.0 | Ensamble de novo de datos WGS | spades:4.2.0--h8d6e82b_2 |
+| Captus | 1.6.1 | Pipeline bioinformático para la captura de loci | captus:1.6.1--pyh05cac1d_0 |
+| IQ-TREE | 3.0.1 | Inferencia filogenética por máxima verosimilitud | iqtree:3.0.1--h503566f_0 |
+| MAFFT | 7.525 | Alineamiento de secuencias | mafft:7.525--h031d066_1 |
+| Trimal | 1.5.1 | Curación de alineamientos | trimal:1.5.1--h9948957_0 |
+| GoTree | 0.5.1 | Manejo y edición de árboles filogenéticos | gotree:0.5.1--he881be0_0 |
 
 *Prueba del uso de tablas*
 
