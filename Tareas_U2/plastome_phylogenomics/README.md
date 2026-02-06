@@ -24,9 +24,9 @@ $ tree -d -L 2 .
 
 ### - **Programas a utilizar:** 
 
-| Software | Versión | Descripción |
-| -------- | ------- | ----------- |
-| FastQC | 0.12.1 | Control de calidad de lecturas
+| Software | Versión | Descripción | Contenedores Apptainer |
+| -------- | ------- | ----------- | ------------- |
+| FastQC | 0.12.1 | Control de calidad de lecturas | trimmomatic:0.40--hdfd78af_0 |
 | Trimmomatic | 0.40 | Limpieza de adaptadores y *reads* de baja calidad |
 | Spades | 4.2.0 | Ensamble de novo de datos WGS |
 | Captus | 1.6.1 | Pipeline bioinformático para la captura de loci |
