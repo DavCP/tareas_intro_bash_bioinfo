@@ -33,7 +33,7 @@ $ tree -d -L 2 .
 | IQ-TREE | 3.0.1 | Software de inferencia filogenética |
 | MAFFT | 7.525 | Alineamiento de secuencias |
 | Trimal | 1.5.1 | Curación de alineamientos |
-| GoTree | * | Editar árboles |
+| GoTree | 0.5.1 | Editar árboles |
 
 *Prueba del uso de tablas*
 
