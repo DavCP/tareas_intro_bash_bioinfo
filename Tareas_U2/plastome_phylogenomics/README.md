@@ -23,6 +23,9 @@ $ tree -d -L 2 .
 ![Estructura de directorios](/misc/images/screenshot.png "Estructura directorios")
 
 ### - **Programas a utilizar:** 
+
+#### Apptainer
+
 Se utilizarán contenedores de Biocontainers obtenidos desde [Quay.io](https://www.quay.io/)
 
 
@@ -38,5 +41,8 @@ Se utilizarán contenedores de Biocontainers obtenidos desde [Quay.io](https://w
 | GoTree | 0.5.1 | Editar árboles |
 
 *Prueba del uso de tablas*
+
+#### Pixi
+Para Pixi, se incluyen los archivos pixi.toml y pixi.lock que definen el software a utilizar en este proyecto.
 
 
