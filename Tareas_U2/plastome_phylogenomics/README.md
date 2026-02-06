@@ -23,6 +23,7 @@ $ tree -d -L 2 .
 ![Estructura de directorios](/misc/images/screenshot.png "Estructura directorios")
 
 ### - **Programas a utilizar:** 
+Se utilizarán contenedores de Biocontainers obtenidos desde Quay.io
 
 | Software | Versión | Descripción | Contenedores Apptainer |
 | -------- | ------- | ----------- | ------------- |
