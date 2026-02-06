@@ -14,10 +14,12 @@ Dentro de la familia Bromeliaceae, la subfamilia más rica en especies es Tillan
 $ tree -d -L 2 .
 .
 ├── data
+├── metadata
 ├── results
 └── scripts
 
-4 directories
+5 directories
+
 ```
 
 ![Estructura de directorios](/misc/images/screenshot.png "Estructura directorios")
