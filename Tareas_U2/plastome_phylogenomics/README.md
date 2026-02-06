@@ -23,6 +23,7 @@ Dentro de la familia Bromeliaceae, la subfamilia más rica en especies es Tillan
 | IQ-TREE | 3.0.1 | Software de inferencia filogenética |
 | MAFFT | 7.525 | Alineamiento de secuencias |
 | Trimal | 1.5.1 | Curación de alineamientos |
+| GoTree | * | Editar árboles |
 
 *Prueba del uso de tablas*
 
