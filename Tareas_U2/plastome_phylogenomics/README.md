@@ -20,9 +20,7 @@ $ tree -d -L 2 .
 ├── metadata
 ├── results
 └── scripts
-
 5 directories
-
 ```
 
 ![Estructura de directorios](/misc/images/screenshot.png "Estructura directorios")
