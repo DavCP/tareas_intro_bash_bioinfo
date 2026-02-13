@@ -40,4 +40,4 @@ SSD (NVMe)
 Integrados
 
 ## Reflexión:
-El equipo y sus especificaciones son más que suficientes para el uso que se le da, como es el procesamiento de datos, generación de figuras y representación báscia de resultados así como ofimática. El procesamiento de datos genómicos se lleva a cabo en clusters (HPC) capaces de realizarlo.
+El equipo y sus especificaciones son más que suficientes para el uso que se le da. Entre los usos se encuentra el procesamiento de datos ligeros, generación de figuras y representación báscia de resultados, así como la creación de documentos diversos (ofimática). El procesamiento de datos genómicos se lleva a cabo en clusters (HPC) capaces de realizarlo, con suficientes recursos de almacenamiento, capacidad de cómputo y RAM.
